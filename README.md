@@ -7,8 +7,8 @@ Dirigez vous dans le `shared.lua` et adaptez le `ConfigItem.Limit` en fonction d
 
 ## Preview
 
-[Preview](https://www.youtube.com/)
+[Preview](https://www.youtube.com/](https://www.youtube.com/watch?v=q2FjMqoEs4Y)
 
 ## Discord
 
-[Discord](https://discord.gg/)
+[Discord](https://discord.gg/xePYDMRgfm)
